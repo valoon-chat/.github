@@ -22,5 +22,4 @@ using WhatsApp exactly as they always have.
 
 ## Contact
 
-For security issues, see `SECURITY.md`. For general inquiries, visit
-[valoon.chat](https://valoon.chat/) or open an issue in the relevant repo.
+For general inquiries, visit [valoon.chat](https://valoon.chat/) or open an issue in the relevant repo.
