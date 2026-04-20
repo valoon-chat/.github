@@ -17,7 +17,7 @@ using WhatsApp exactly as they always have.
 
 - **3,000+ construction projects** across **10 countries**
 - **German-hosted** infrastructure — ISO 27001 and SOC 2 Type 2 certified
-- **Legally-secure** (beweissichere) documentation built in
+- **Legally-secure** documentation built in
 - **Free for WhatsApp users** — only office seats are billed
 
 ## Contact
