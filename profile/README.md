@@ -20,16 +20,6 @@ using WhatsApp exactly as they always have.
 - **Legally-secure** (beweissichere) documentation built in
 - **Free for WhatsApp users** — only office seats are billed
 
-## What you'll find here
-
-- **Clients** — Vue/Quasar frontends: `ui`, `admin-ui`, and integration surfaces.
-- **Services** — backend microservices in Go, .NET, Python, and Node:
-  analytics, entity, feature-flags, media, notifications, reports, translation,
-  and more.
-- **Bots** — messaging-platform adapters for WhatsApp, Teams, Telegram, and
-  Viber, plus a central `bot-proxy`.
-- **Gateway** — the Go edge service fronting the platform.
-
 ## Contact
 
 For security issues, see `SECURITY.md`. For general inquiries, visit
